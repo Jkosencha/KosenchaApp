@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kosencha</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_pizza">PizzaActivity</string>
+    <string name="title_activity_text_field">TextFieldActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_food_card">FoodCardActivity</string>
+    <string name="title_activity_card2">Card2Activity</string>
+    <string name="title_activity_multi">MultiActivity</string>
+</resources>
